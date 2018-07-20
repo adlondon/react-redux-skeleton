@@ -1,4 +1,3 @@
-// NOTE:  This isn't the 'app.js' you think it is. Don't try and write stuff in it or it'll break!
 const Server = require("./server.js");
 
 const port = (process.env.PORT || 8080);
